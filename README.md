@@ -5,8 +5,9 @@ A simple **Tic Tac Toe game** built with Python and Tkinter.
 ---
 
 ## Preview
-
-![Game Screenshot](./screenshot.png)  
+<p align="center">
+<img src="./screenshot.png" alt="Game Screenshot" width="400"/>
+</p>
 
 ---
 
@@ -36,4 +37,4 @@ A simple **Tic Tac Toe game** built with Python and Tkinter.
    python main.py
 
 ## License
-This project is open source under the ![MIT LICENSE](./LICENSE)
+This project is open source under the [MIT LICENSE](./LICENSE)
